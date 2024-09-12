@@ -1,0 +1,14 @@
+{
+    "name": "Comp6447",
+    "image": "stacksparrow4/m1-mac-6447",
+    // "build": {
+    //     "dockerfile": "Dockerfile"
+    // },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python"
+            ]
+        }
+    }
+}
